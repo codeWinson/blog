@@ -1,3 +1,4 @@
-# centos
+# Linux命令大全
 
-# ubuntu
+http://man.linuxde.net/
+
